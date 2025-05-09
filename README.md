@@ -28,5 +28,7 @@ A well-conducted requirement analysis ensures that the final software product me
 
 ## Types of Requirements.
 
-### Functional Requirements - Describe what the system should do. key Functions (Search properties, User registration, Property listing, Booking system and users Authentication.
-### Non-functional Requirements - Describe how the system should perfrom. E.g Performance, scalability, Usuability and reliabilty.
+### Functional Requirements - 
+Describe what the system should do. key Functions (Search properties, User registration, Property listing, Booking system and users Authentication.
+### Non-functional Requirements -
+Describe how the system should perfrom. E.g Performance, scalability, Usuability and reliabilty.
