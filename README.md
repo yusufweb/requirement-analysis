@@ -14,3 +14,14 @@ Identifying and resolving requirement issues early in the software development l
 
 3. Improves Quality and User Satisfaction
 A well-conducted requirement analysis ensures that the final software product meets user needs and expectations. By involving users and stakeholders early in the process, developers can gain valuable insights into the real-world problems the software aims to solve. This leads to the creation of features that are both relevant and user-friendly. As a result, the software is more likely to achieve high levels of usability, functionality, and customer satisfaction, while also supporting effective testing and validation processes.
+
+## Key Activities in Requirement Analysis.
+
+1. Requirement gathering - Interviewing, Survey, Workshop
+2. Requirement Elicitation - Brainstorming, Focus Group and Prototyping
+3. Requirement Documentation - Requirement Specification Document, User story and Use cases
+4. Requirement Analysis -
+   - Requirement Priotization based on their importance
+   - Feasibilty Analysis in terms of technical, financial and time constrainst
+   - Modeling: Create Model(e.g data flow diagrams, entity relatioship digrams) to visualize and analyze the requirment.
+5. Requirement Validation: Review and Approval, Acceptance Criteria and Traceablity.
