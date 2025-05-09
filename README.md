@@ -25,3 +25,8 @@ A well-conducted requirement analysis ensures that the final software product me
    - Feasibilty Analysis in terms of technical, financial and time constrainst
    - Modeling: Create Model(e.g data flow diagrams, entity relatioship digrams) to visualize and analyze the requirment.
 5. Requirement Validation: Review and Approval, Acceptance Criteria and Traceablity.
+
+## Types of Requirements.
+
+### Functional Requirements - Describe what the system should do. key Functions (Search properties, User registration, Property listing, Booking system and users Authentication.
+### Non-functional Requirements - Describe how the system should perfrom. E.g Performance, scalability, Usuability and reliabilty.
