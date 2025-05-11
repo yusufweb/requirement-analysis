@@ -53,3 +53,22 @@ Actors (users or external systems),
 ### Use Case Diagram (Booking system)
 ![alx-booking-uc](https://github.com/user-attachments/assets/63fe6ca0-bf28-482c-af3e-0cb349a1e2e4)
 
+## Acceptance Criteria.
+Acceptance Criteria are vital in requirement analysis because they:
+
+- Clarify expectations: Define exactly what a feature must do to be accepted, reducing misunderstandings.
+
+- Guide testing: Help QA teams verify that the system meets business needs through testable outcomes.
+
+- Improve communication: Align developers and stakeholders using clear, simple language.
+
+- Control scope: Prevent scope creep by setting boundaries on what’s considered “done.”
+
+- Support Agile: Enable effective sprint planning and a clear Definition of Done in Agile environments.
+
+### Acceptance criteria for a feature like the Checkout feature in the booking management system.
+- User must be able to fill their contact details such as (First name, Last Name, Phone Number and Address.
+- Input their card details for Payment process.
+- Fill in billing Address
+- Review of thier other should display on the other side of the right hand side of the page.
+- A buuton to comfirm and Pay
