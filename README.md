@@ -32,3 +32,23 @@ A well-conducted requirement analysis ensures that the final software product me
 Describe what the system should do. key Functions (Search properties, User registration, Property listing, Booking system and users Authentication.
 ### Non-functional Requirements -
 Describe how the system should perfrom. E.g Performance, scalability, Usuability and reliabilty.
+
+## Use Case Diagrams.
+Use Case Diagrams are a type of behavioral diagram used in the Unified Modeling Language (UML) to visually represent the interactions between users (called actors) and a system. They describe the functional requirements of a system from the user's perspective by showing the various ways the system will be used. A typical use case diagram consists of:
+
+Actors (users or external systems),
+
+   - Use cases (specific actions or services the system provides),
+
+   - Relationships (associations between actors and use cases).
+
+   - They focus on what the system does rather than how it does it, and are often used during the early stages of software development to gather and communicate requirements.
+
+### Benefits of Use Case Diagrams
+   - Improves Communication Between Stakeholders
+   - Helps Identify System Boundaries and Scope
+   - Supports Requirement Gathering and Validation
+   - Guides System Design and Testing
+
+### Use Case Diagram (Booking system)
+<img src="[https://your-image-link.com/profile.jpg](https://drive.google.com/file/d/1E0feUmVf1l0F_1wZYUZtCps2__S1bxmg/view?usp=sharing)" alt="Yusuf Ajao" width="150" style="border-radius: 50%;">
