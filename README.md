@@ -71,5 +71,5 @@ Acceptance Criteria are vital in requirement analysis because they:
 - User must be able to fill their contact details such as (First name, Last Name, Phone Number and Address.
 - Input their card details for Payment process.
 - Fill in billing Address
-- Review of thier other should display on the other side of the right hand side of the page.
-- A buuton to comfirm and Pay
+- A preview of their order should display on the other side of the right hand side of the page.
+- A button to comfirm and Pay
