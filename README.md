@@ -51,7 +51,7 @@ Actors (users or external systems),
    - Guides System Design and Testing
 
 ### Use Case Diagram (Booking system)
-![alx-booking-uc.png](./alx-booking-uc.png)
+
 
 
 ## Acceptance Criteria.
